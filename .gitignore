@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/
+datasets/
+*.csv
+*.zip
+*.tar.gz
+
+# Models
+*.pth
+*.onnx
+*.pt
+checkpoints/
+
+# Logs
+wandb/
+logs/
+*.log
+
+# OS
+.DS_Store
